@@ -9,8 +9,6 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 ```
 /**************************************************************
 * Class:  CSC-415-0# Fall 2021
-* Name:
-* Student ID:
 * GitHub UserID:
 * Project: Assignment 2B – Buffered I/O read
 *
